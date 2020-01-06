@@ -17,7 +17,7 @@ window._CCSettings = {
             "0fuhIY0+1CzKQzd/CLTAOn": ["resource/Audio/mp3/_HB_Basket_Rim.mp3", 1],
             "ccTcc0MgdHE750EmyG+Y/r": ["resource/Audio/mp3/_HB_Basket_ScoreNet.mp3", 1],
             "86SCWLh39JC7ZQfi2d/BNU": ["resource/Audio/mp3/ball_flame_on.mp3", 1],
-            "63pttzPj9GX6hsma8+W6iS": ["resource/Audio/mp3/time is out.mp3", 1],
+            "63pttzPj9GX6hsma8+W6iS": ["resource/Audio/mp3/timeisout.mp3", 1],
             edgjC1l5JM5a1yGZ7htHYK: ["resource/Audio/voice/boom.mp3", 1],
             d4xy6H2M5Hz7O8FBMtqIuS: ["resource/Audio/voice/wauw.mp3", 1],
             "39sumKpnlOhIb2vO311pTu": ["resource/Audio/voice/yeah.mp3", 1],
